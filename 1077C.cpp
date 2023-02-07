@@ -40,7 +40,7 @@ int main() {
                     res.push_back(i);
                 }
             } else {
-                res.push_back(i);
+                res.push_back(i);;
             }
         }
     }
